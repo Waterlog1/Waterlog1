@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @waterlog1
-- 👀 I’m interested in learning to code and further develop my knowledge in the space
-- 🌱 I’m currently learning HTML/CSS and Python
+- 👀 Keen to keep learning and growing in the space.
 - 💞️ I’m looking to collaborate on all types of projects 
 - 📫You can reach me via direct message
 - Let's go!
